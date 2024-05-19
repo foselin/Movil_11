@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">almacenamiento_sa100821</string>
+    <string name="ingresar_texto">Ingrese un texto</string>
+    <string name="guardar">Guardar</string>
+</resources>
